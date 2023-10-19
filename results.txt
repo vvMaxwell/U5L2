@@ -1,0 +1,47 @@
+; Sample INI File
+
+; Sample INI File1
+
+1[General]
+
+[General]1name = John Doe
+
+name 2
+ John Doeage = 30
+
+age 2
+ 30email = johndoe@example.com
+
+email 2
+ johndoe@example.com
+
+1[Settings]
+
+[Settings]1theme = dark
+
+theme 2
+ darklanguage = English
+
+language 2
+ Englishauto_save = true
+
+auto_save 2
+ true
+
+1[Database]
+
+[Database]1host = localhost
+
+host 2
+ localhostport = 3306
+
+port 2
+ 3306username = myuser
+
+username 2
+ myuserpassword = mypassword
+
+password 2
+ mypassword
+
+1
